@@ -1,4 +1,4 @@
-# 🍽️ Agentic Restaurant Chatbot  
+# 🍽️ Restaurant Agent Chatbot
 
 An **AI-powered restaurant assistant** built with **Agenix** and **Google Gemini**, showcasing an **agentic approach** to tool use and orchestration.  
 
